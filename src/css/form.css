@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+.search-form {
+  display: inline-flex;
+  width: 100%;
+}
+
+.search-form > input {
+  flex: 1;
+}
+
+i {
+  margin-right: 3px;
+}
+.required {
+  color: red;
+}
